@@ -1,2 +1,2 @@
 # odin-calculator
-Fifth TOP projext.
+Fifth TOP project.
